@@ -17,5 +17,5 @@
   position: sticky;
   padding-left: 40px;
 }.rightNav {
-justify-content: space-between;
+justify-content: space-around;
 }
